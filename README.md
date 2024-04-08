@@ -48,7 +48,7 @@
     <li>SPACE bar: Pause/resume game</li>
     <li>R key: Restart the game after collision</li>
   </ul>
-
+<img src = "snake_game.png">
   
 </body>
 </html>
