@@ -8,7 +8,7 @@
   <h1>Snake Game</h1>
 
   <h2>Description:</h2>
-  <p>This Java application implements a simple snake game using JavaFX. The game features a snake controlled by the user, which moves around a grid to eat food. As the snake eats food, it grows longer. The game ends if the snake collides with itself. Users can control the snake's direction using arrow keys and pause/resume the game using the space bar.</p>
+  <p>This is an implementation of a simple snake game using JavaFX. The game features a snake controlled by the user, which moves around a grid to eat food. As the snake eats food, it grows longer. The game ends if the snake collides with itself. Users can control the snake's direction using arrow keys and pause/resume the game using the space bar.</p>
 
   <h2>Features:</h2>
   <ul>
